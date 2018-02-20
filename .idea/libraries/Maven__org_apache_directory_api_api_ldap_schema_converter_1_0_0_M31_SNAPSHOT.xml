@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.directory.api:api-ldap-schema-converter:1.0.0-M31-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/directory/api/api-ldap-schema-converter/1.0.0-M31-SNAPSHOT/api-ldap-schema-converter-1.0.0-M31-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/directory/api/api-ldap-schema-converter/1.0.0-M31-SNAPSHOT/api-ldap-schema-converter-1.0.0-M31-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/directory/api/api-ldap-schema-converter/1.0.0-M31-SNAPSHOT/api-ldap-schema-converter-1.0.0-M31-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.directory.shared:shared-converter:0.9.18-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/directory/shared/shared-converter/0.9.18-SNAPSHOT/shared-converter-0.9.18-20091211.110938-2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/directory/shared/shared-converter/0.9.18-SNAPSHOT/shared-converter-0.9.18-20091211.110938-2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/directory/shared/shared-converter/0.9.18-SNAPSHOT/shared-converter-0.9.18-20091211.110938-2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

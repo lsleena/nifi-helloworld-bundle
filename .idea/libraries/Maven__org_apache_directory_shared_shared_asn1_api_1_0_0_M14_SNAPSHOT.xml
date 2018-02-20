@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.directory.shared:shared-asn1-api:1.0.0-M14-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/directory/shared/shared-asn1-api/1.0.0-M14-SNAPSHOT/shared-asn1-api-1.0.0-M14-20121220.041008-70.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/directory/shared/shared-asn1-api/1.0.0-M14-SNAPSHOT/shared-asn1-api-1.0.0-M14-20121220.041008-70-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/directory/shared/shared-asn1-api/1.0.0-M14-SNAPSHOT/shared-asn1-api-1.0.0-M14-20121220.041008-70-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.directory.shared:shared-ldap-codec-standalone:1.0.0-M5">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/directory/shared/shared-ldap-codec-standalone/1.0.0-M5/shared-ldap-codec-standalone-1.0.0-M5.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/directory/shared/shared-ldap-codec-standalone/1.0.0-M5/shared-ldap-codec-standalone-1.0.0-M5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/directory/shared/shared-ldap-codec-standalone/1.0.0-M5/shared-ldap-codec-standalone-1.0.0-M5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.directory.server:apacheds-server-unit:1.5.6-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/directory/server/apacheds-server-unit/1.5.6-SNAPSHOT/apacheds-server-unit-1.5.6-20091101.005013-9.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/directory/server/apacheds-server-unit/1.5.6-SNAPSHOT/apacheds-server-unit-1.5.6-20091101.005013-9-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/directory/server/apacheds-server-unit/1.5.6-SNAPSHOT/apacheds-server-unit-1.5.6-20091101.005013-9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

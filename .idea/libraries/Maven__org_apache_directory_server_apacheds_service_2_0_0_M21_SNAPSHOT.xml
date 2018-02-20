@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.directory.server:apacheds-service:2.0.0-M21-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/directory/server/apacheds-service/2.0.0-M21-SNAPSHOT/apacheds-service-2.0.0-M21-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/directory/server/apacheds-service/2.0.0-M21-SNAPSHOT/apacheds-service-2.0.0-M21-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/directory/server/apacheds-service/2.0.0-M21-SNAPSHOT/apacheds-service-2.0.0-M21-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

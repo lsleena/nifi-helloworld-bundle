@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.directory.server:apacheds-http-integration:1.5.8-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/directory/server/apacheds-http-integration/1.5.8-SNAPSHOT/apacheds-http-integration-1.5.8-20110622.160933-230.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/directory/server/apacheds-http-integration/1.5.8-SNAPSHOT/apacheds-http-integration-1.5.8-20110622.160933-230-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/directory/server/apacheds-http-integration/1.5.8-SNAPSHOT/apacheds-http-integration-1.5.8-20110622.160933-230-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="nifi-helloworld-nar" />
+        <module name="nifi-helloworld-processors" />
+        <module name="nifi-helloworld-shared-converter-0.9.18-SNAPSHOT.jarprocessors" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="nifi-helloworld-bundle" target="1.8" />
+      <module name="nifi-helloworld-nar" target="1.8" />
+      <module name="nifi-helloworld-processors" target="1.8" />
+      <module name="nifi-helloworld-shared-converter-0.9.18-SNAPSHOT.jarprocessors" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

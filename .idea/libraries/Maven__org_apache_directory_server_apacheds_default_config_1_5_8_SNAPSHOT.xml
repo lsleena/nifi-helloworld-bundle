@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.directory.server:apacheds-default-config:1.5.8-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/directory/server/apacheds-default-config/1.5.8-SNAPSHOT/apacheds-default-config-1.5.8-20100605.082926-123.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/directory/server/apacheds-default-config/1.5.8-SNAPSHOT/apacheds-default-config-1.5.8-20100605.082926-123-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/directory/server/apacheds-default-config/1.5.8-SNAPSHOT/apacheds-default-config-1.5.8-20100605.082926-123-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

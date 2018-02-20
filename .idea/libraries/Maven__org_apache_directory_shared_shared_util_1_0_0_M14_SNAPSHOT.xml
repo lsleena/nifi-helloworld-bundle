@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.directory.shared:shared-util:1.0.0-M14-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/directory/shared/shared-util/1.0.0-M14-SNAPSHOT/shared-util-1.0.0-M14-20121220.040950-70.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/directory/shared/shared-util/1.0.0-M14-SNAPSHOT/shared-util-1.0.0-M14-20121220.040950-70-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/directory/shared/shared-util/1.0.0-M14-SNAPSHOT/shared-util-1.0.0-M14-20121220.040950-70-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

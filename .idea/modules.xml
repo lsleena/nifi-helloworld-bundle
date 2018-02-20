@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/nifi-helloworld-bundle.iml" filepath="$PROJECT_DIR$/nifi-helloworld-bundle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nifi-helloworld-nar/nifi-helloworld-nar.iml" filepath="$PROJECT_DIR$/nifi-helloworld-nar/nifi-helloworld-nar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nifi-helloworld-processors/nifi-helloworld-shared-converter-0.9.18-SNAPSHOT.jarprocessors.iml" filepath="$PROJECT_DIR$/nifi-helloworld-processors/nifi-helloworld-shared-converter-0.9.18-SNAPSHOT.jarprocessors.iml" />
+    </modules>
+  </component>
+</project>

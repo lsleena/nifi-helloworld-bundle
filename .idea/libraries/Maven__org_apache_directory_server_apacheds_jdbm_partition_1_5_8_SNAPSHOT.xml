@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.directory.server:apacheds-jdbm-partition:1.5.8-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/directory/server/apacheds-jdbm-partition/1.5.8-SNAPSHOT/apacheds-jdbm-partition-1.5.8-20110622.155406-249.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/directory/server/apacheds-jdbm-partition/1.5.8-SNAPSHOT/apacheds-jdbm-partition-1.5.8-20110622.155406-249-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/directory/server/apacheds-jdbm-partition/1.5.8-SNAPSHOT/apacheds-jdbm-partition-1.5.8-20110622.155406-249-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

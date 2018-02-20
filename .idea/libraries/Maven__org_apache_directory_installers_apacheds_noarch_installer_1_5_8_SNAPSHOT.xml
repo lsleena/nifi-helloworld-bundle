@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.directory.installers:apacheds-noarch-installer:1.5.8-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/directory/installers/apacheds-noarch-installer/1.5.8-SNAPSHOT/apacheds-noarch-installer-1.5.8-20100605.082926-118.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/directory/installers/apacheds-noarch-installer/1.5.8-SNAPSHOT/apacheds-noarch-installer-1.5.8-20100605.082926-118-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/directory/installers/apacheds-noarch-installer/1.5.8-SNAPSHOT/apacheds-noarch-installer-1.5.8-20100605.082926-118-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

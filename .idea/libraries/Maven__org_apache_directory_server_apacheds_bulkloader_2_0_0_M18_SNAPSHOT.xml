@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.directory.server:apacheds-bulkloader:2.0.0-M18-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/directory/server/apacheds-bulkloader/2.0.0-M18-SNAPSHOT/apacheds-bulkloader-2.0.0-M18-20141112.042519-70.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/directory/server/apacheds-bulkloader/2.0.0-M18-SNAPSHOT/apacheds-bulkloader-2.0.0-M18-20141112.042519-70-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/directory/server/apacheds-bulkloader/2.0.0-M18-SNAPSHOT/apacheds-bulkloader-2.0.0-M18-20141112.042519-70-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
